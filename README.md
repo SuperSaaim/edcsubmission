@@ -5,7 +5,7 @@ Files:
 - style.css   : colors, layout, styling, and mobile responsiveness
 
 HOW TO RUN:
-1. Keep all three files in the same folder.
+1. Keep all two files in the same folder.
 2. Open index.html in your browser.
 3. Edit the text in index.html to change event information.
 
